@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "298817411665",
+    "project_id": "food-hunter-83b54",
+    "storage_bucket": "food-hunter-83b54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298817411665:android:0b84cd947885719f1e3670",
+        "android_client_info": {
+          "package_name": "com.foodapp.customer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCityc3nKxiILNqgZOU1JVj_9DHWB97mL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298817411665:android:ee239ae0867cec241e3670",
+        "android_client_info": {
+          "package_name": "com.foodapp.customer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCityc3nKxiILNqgZOU1JVj_9DHWB97mL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
